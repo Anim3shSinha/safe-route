@@ -32,4 +32,5 @@ In response to this critical issue, we introduce our web app, Safe Route. The go
 ## Deployment
 - https://safe-route.onrender.com/
 
+
 Feel free to explore and contribute to the project to enhance women's safety and security in our communities!
