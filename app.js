@@ -98,11 +98,11 @@ app.get('/auth/google/dashboard',
 
 app.use(methodOverride("_method"));
 
-app.get("/", function (req, res) {
-	res.render("homePage");
-});
+// app.get("/", function (req, res) {
+// 	res.render("homePage");
+// });
 
-app.get("/dashboard", function (req, res) {
+app.get("/", function (req, res) {
 	res.sendFile(path.join(__dirname + '/main.html'));
 });
 
